@@ -1,0 +1,108 @@
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\WeighingSystem.exe.config
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.exe
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.pdb
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\WeighingSystem.exe
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\WeighingSystem.pdb
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\C1.Win.4.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\C1.Win.C1Command.4.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\C1.Win.C1Input.4.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\MySql.Data.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\Popbill.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\TextIndicator.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\Linkhub.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\Google.Protobuf.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\BouncyCastle.Crypto.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\Ubiety.Dns.Core.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\Renci.SshNet.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\Popbill.pdb
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\TextIndicator.pdb
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\C1.Win.C1Command.4.xml
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\C1.Win.C1Input.4.xml
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\MySql.Data.xml
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\bin\Release\Linkhub.pdb
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.csprojResolveAssemblyReference.cache
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.MainForm.resources
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.Properties.Resources.resources
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.csproj.GenerateResource.Cache
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.exe.licenses
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.MessageForm.resources
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.PrintForm.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\WeighingSystem.exe.config
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\WeighingSystem.exe
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\WeighingSystem.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\C1.Win.4.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\C1.Win.C1Command.4.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\C1.Win.C1Input.4.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\MySql.Data.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\Popbill.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\TextIndicator.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\Linkhub.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\Google.Protobuf.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\BouncyCastle.Crypto.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\Ubiety.Dns.Core.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\Renci.SshNet.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\Popbill.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\TextIndicator.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\C1.Win.C1Command.4.xml
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\C1.Win.C1Input.4.xml
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\MySql.Data.xml
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\bin\Release\Linkhub.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.csprojResolveAssemblyReference.cache
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.MainForm.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.MessageForm.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.PrintForm.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.Properties.Resources.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.csproj.GenerateResource.Cache
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.exe.licenses
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.exe
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\WeighingSystem\obj\Release\WeighingSystem.SettingForm.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\WeighingSystem.exe.config
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.exe
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\WeighingSystem.exe
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\WeighingSystem.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\MySql.Data.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\Popbill.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\TextIndicator.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\Linkhub.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\Google.Protobuf.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\BouncyCastle.Crypto.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\Ubiety.Dns.Core.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\Renci.SshNet.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\Popbill.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\TextIndicator.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\MySql.Data.xml
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\bin\Release\Linkhub.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.csprojResolveAssemblyReference.cache
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.MainForm.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.MessageForm.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.PrintForm.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.Properties.Resources.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.SettingForm.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\bin\Release\WeighingSystem.exe.config
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\bin\Release\WeighingSystem.exe
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\bin\Release\WeighingSystem.pdb
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\bin\Release\Popbill.dll
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\bin\Release\TextIndicator.dll
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\bin\Release\Linkhub.dll
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\bin\Release\Google.Protobuf.dll
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\bin\Release\Renci.SshNet.dll
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\bin\Release\Popbill.pdb
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\bin\Release\TextIndicator.pdb
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\bin\Release\Linkhub.pdb
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.MainForm.resources
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.MessageForm.resources
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.PrintForm.resources
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.Properties.Resources.resources
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.SelectJunpyo.resources
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.SettingForm.resources
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.csproj.CopyComplete
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.exe
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\WeighingSystem\obj\Release\WeighingSystem.pdb

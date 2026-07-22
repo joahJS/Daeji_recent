@@ -1,0 +1,2119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FFB52B3B-C617-4998-962A-BD16917176AD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>AccAdm</RootNamespace>
+    <AssemblyName>Daeji</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\..\Desktop\Daeji_MS\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>DJ_ICON.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility" />
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Codeer.Friendly, Version=2.6.1.0, Culture=neutral, PublicKeyToken=6c44da6fca38aa86, processorArchitecture=MSIL">
+      <HintPath>..\packages\Codeer.Friendly.2.6.1\lib\net40\Codeer.Friendly.dll</HintPath>
+    </Reference>
+    <Reference Include="Codeer.Friendly.Dynamic, Version=2.6.1.0, Culture=neutral, PublicKeyToken=376bc779077733e8, processorArchitecture=MSIL">
+      <HintPath>..\packages\Codeer.Friendly.2.6.1\lib\net40\Codeer.Friendly.Dynamic.dll</HintPath>
+    </Reference>
+    <Reference Include="Codeer.Friendly.Windows, Version=2.16.0.0, Culture=neutral, PublicKeyToken=532f270f1da385b3, processorArchitecture=MSIL">
+      <HintPath>..\packages\Codeer.Friendly.Windows.2.16.0\lib\net20\Codeer.Friendly.Windows.dll</HintPath>
+    </Reference>
+    <Reference Include="Codeer.Friendly.Windows.Grasp.2.0, Version=2.14.1.0, Culture=neutral, PublicKeyToken=92809a28945fb91d, processorArchitecture=MSIL">
+      <HintPath>..\packages\Codeer.Friendly.Windows.Grasp.2.14.1\lib\net35\Codeer.Friendly.Windows.Grasp.2.0.dll</HintPath>
+    </Reference>
+    <Reference Include="Codeer.Friendly.Windows.Grasp.3.5, Version=2.14.1.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Codeer.Friendly.Windows.Grasp.2.14.1\lib\net35\Codeer.Friendly.Windows.Grasp.3.5.dll</HintPath>
+    </Reference>
+    <Reference Include="Codeer.TestAssistant.GeneratorToolKit, Version=3.13.0.0, Culture=neutral, PublicKeyToken=f7af39ab9bcf13fe, processorArchitecture=MSIL">
+      <HintPath>..\packages\Codeer.TestAssistant.GeneratorToolKit.3.13.0\lib\net40\Codeer.TestAssistant.GeneratorToolKit.dll</HintPath>
+    </Reference>
+    <Reference Include="Codeer.TestAssistant.GeneratorToolKit.4.0, Version=3.13.0.0, Culture=neutral, PublicKeyToken=f1ee4e89052c526f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Codeer.TestAssistant.GeneratorToolKit.3.13.0\lib\net40\Codeer.TestAssistant.GeneratorToolKit.4.0.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.BonusSkins.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.Designer.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Charts.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeConverter.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Dashboard.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Dashboard.v18.2.Win, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.Desktop.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.DataAccess.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DataAccess.v18.2.UI, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DemoData.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DemoData.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DevAV.v18.2.Data, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.DevAV.v18.2.Reports, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Diagram.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Dialogs.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Docs.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Drawing.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.EasyTest.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.ExpressApp.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Images.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Map.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v18.2.Drawing, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Persistent.Base.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v22.1.Core, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v18.2.Export, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Snap.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Snap.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.SpellChecker.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Spreadsheet.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.TreeMap.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Tutorials.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v18.2.UI, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Web.ASPxSpreadsheet.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpf.Spreadsheet.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Xpo.v18.2.Extensions, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v18.2.Extensions, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v18.2.UI, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v18.2.Wizard, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraDiagram.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraDialogs.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraGauges.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v18.2.Win, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v22.1, Version=22.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraMap.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPdfViewer.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPivotGrid.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v18.2.CodeCompletion, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v18.2.Extensions, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v18.2.Service, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v18.2.Extensions, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v18.2.Extensions, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v18.2.Reporting, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v18.2.Reporting.Extensions, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpreadsheet.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeMap.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraWizard.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Google.Protobuf, Version=3.5.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.5.1\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.15.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.15\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="form\InOutMgt\AccFieldVs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccFieldVs.Designer.cs">
+      <DependentUpon>AccFieldVs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccFieldCustom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccFieldCustom.Designer.cs">
+      <DependentUpon>AccFieldCustom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdPlanA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdPlanA.Designer.cs">
+      <DependentUpon>ProdPlanA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdPlanAA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdPlanAA.Designer.cs">
+      <DependentUpon>ProdPlanAA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdPlanB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdPlanB.Designer.cs">
+      <DependentUpon>ProdPlanB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdPlanC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdPlanC.Designer.cs">
+      <DependentUpon>ProdPlanC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\AllReportIM01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\AllReportIM01.Designer.cs">
+      <DependentUpon>AllReportIM01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\AllReprotPopUpSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\AllReprotPopUpSetting.Designer.cs">
+      <DependentUpon>AllReprotPopUpSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\AllReprotPopUpInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\AllReprotPopUpInsert.Designer.cs">
+      <DependentUpon>AllReprotPopUpInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\AllReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\AllReport.Designer.cs">
+      <DependentUpon>AllReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\AccDealerCdDevimage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\AccDealerCdDevimage.Designer.cs">
+      <DependentUpon>AccDealerCdDevimage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC02001F08.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC02001F08.Designer.cs">
+      <DependentUpon>AC02001F08.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC07001F03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC07001F03.designer.cs">
+      <DependentUpon>AC07001F03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC18001F02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC18001F02.Designer.cs">
+      <DependentUpon>AC18001F02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC18001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC18001F01.Designer.cs">
+      <DependentUpon>AC18001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC17001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC17001F01.Designer.cs">
+      <DependentUpon>AC17001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC16001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC16001F01.Designer.cs">
+      <DependentUpon>AC16001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC16001F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC16001F00.Designer.cs">
+      <DependentUpon>AC16001F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC14001F03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC14001F03.Designer.cs">
+      <DependentUpon>AC14001F03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC14001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC14001F01.Designer.cs">
+      <DependentUpon>AC14001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC02001F06.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC02001F06.Designer.cs">
+      <DependentUpon>AC02001F06.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC13001F02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC13001F02.Designer.cs">
+      <DependentUpon>AC13001F02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC13001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC13001F01.Designer.cs">
+      <DependentUpon>AC13001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC12001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC12001F01.Designer.cs">
+      <DependentUpon>AC12001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC11001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC11001F01.Designer.cs">
+      <DependentUpon>AC11001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC10001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC10001F01.Designer.cs">
+      <DependentUpon>AC10001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC09001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC09001F01.Designer.cs">
+      <DependentUpon>AC09001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC08001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC08001F01.Designer.cs">
+      <DependentUpon>AC08001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC07001F02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC07001F02.Designer.cs">
+      <DependentUpon>AC07001F02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC07001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC07001F01.Designer.cs">
+      <DependentUpon>AC07001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC06001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC06001F01.Designer.cs">
+      <DependentUpon>AC06001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC05001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC05001F01.Designer.cs">
+      <DependentUpon>AC05001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC04001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC04001F01.Designer.cs">
+      <DependentUpon>AC04001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC03001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC03001F01.Designer.cs">
+      <DependentUpon>AC03001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC02001F05.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC02001F05.Designer.cs">
+      <DependentUpon>AC02001F05.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC02001F03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC02001F03.Designer.cs">
+      <DependentUpon>AC02001F03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC02001F02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC02001F02.Designer.cs">
+      <DependentUpon>AC02001F02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC01001F03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC01001F03.Designer.cs">
+      <DependentUpon>AC01001F03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC01001F02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC01001F02.Designer.cs">
+      <DependentUpon>AC01001F02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC01001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC01001F01.Designer.cs">
+      <DependentUpon>AC01001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC02001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC02001F01.Designer.cs">
+      <DependentUpon>AC02001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC02001F04.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC02001F04.Designer.cs">
+      <DependentUpon>AC02001F04.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC14001F02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC14001F02.designer.cs">
+      <DependentUpon>AC14001F02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC19001F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC19001F00.Designer.cs">
+      <DependentUpon>AC19001F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="acc\AC20001F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="acc\AC20001F00.Designer.cs">
+      <DependentUpon>AC20001F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\ChagmReasonMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\ChagmReasonMgt.designer.cs">
+      <DependentUpon>ChagmReasonMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComnFunc\ComnEtcFunc.cs" />
+    <Compile Include="ComnFunc\ComnEventFunc.cs" />
+    <Compile Include="ComnFunc\ComnGridFunc.cs" />
+    <Compile Include="form\EquipMgt\EQ001F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\EquipMgt\EQ001F00.Designer.cs">
+      <DependentUpon>EQ001F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\GE001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\GE001F01.Designer.cs">
+      <DependentUpon>GE001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\GE001F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\GE001F00.Designer.cs">
+      <DependentUpon>GE001F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\GE002F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\GE002F00.Designer.cs">
+      <DependentUpon>GE002F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\GE003F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\GE003F00.Designer.cs">
+      <DependentUpon>GE003F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\GE003F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\GE003F01.Designer.cs">
+      <DependentUpon>GE003F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\IN001F02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\IN001F02.designer.cs">
+      <DependentUpon>IN001F02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\IN001F02_POP01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\IN001F02_POP01.Designer.cs">
+      <DependentUpon>IN001F02_POP01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\IN001F02_POP02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\IN001F02_POP02.Designer.cs">
+      <DependentUpon>IN001F02_POP02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\IN001F02_POP03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\IN001F02_POP03.Designer.cs">
+      <DependentUpon>IN001F02_POP03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\PayMgt\POP\SL001F00_POP01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\PayMgt\POP\SL001F00_POP01.designer.cs">
+      <DependentUpon>SL001F00_POP01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\PayMgt\POP\SL001F01_POP01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\PayMgt\POP\SL001F01_POP01.designer.cs">
+      <DependentUpon>SL001F01_POP01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\PayMgt\POP\SL001F01_POP02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\PayMgt\POP\SL001F01_POP02.designer.cs">
+      <DependentUpon>SL001F01_POP02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\PayMgt\SL001F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\PayMgt\SL001F00.designer.cs">
+      <DependentUpon>SL001F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\PayMgt\SL001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\PayMgt\SL001F01.designer.cs">
+      <DependentUpon>SL001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\PayMgt\SL002F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\PayMgt\SL002F00.Designer.cs">
+      <DependentUpon>SL002F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN07001F02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN07001F02.Designer.cs">
+      <DependentUpon>IN07001F02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN07001F03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN07001F03.designer.cs">
+      <DependentUpon>IN07001F03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN11001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN11001F01.Designer.cs">
+      <DependentUpon>IN11001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN11001F02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN11001F02.Designer.cs">
+      <DependentUpon>IN11001F02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN12001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN12001F01.Designer.cs">
+      <DependentUpon>IN12001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\PopEtcCostDtl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\PopEtcCostDtl.Designer.cs">
+      <DependentUpon>PopEtcCostDtl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\SC010F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\SC010F00.designer.cs">
+      <DependentUpon>SC010F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\SC010F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\SC010F01.designer.cs">
+      <DependentUpon>SC010F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\LstSaleResult.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\LstSaleResult.designer.cs">
+      <DependentUpon>LstSaleResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\NewSalePlan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\NewSalePlan.designer.cs">
+      <DependentUpon>NewSalePlan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD04001F02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD04001F02.designer.cs">
+      <DependentUpon>PD04001F02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD05001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD05001F01.designer.cs">
+      <DependentUpon>PD05001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\SYS001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\SYS001F01.Designer.cs">
+      <DependentUpon>SYS001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\SYS001F02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\SYS001F02.Designer.cs">
+      <DependentUpon>SYS001F02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN06001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN06001F01.Designer.cs">
+      <DependentUpon>IN06001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN08001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN08001F01.Designer.cs">
+      <DependentUpon>IN08001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN05001F02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN05001F02.Designer.cs">
+      <DependentUpon>IN05001F02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD01001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD01001F01.Designer.cs">
+      <DependentUpon>PD01001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD01001F02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD01001F02.Designer.cs">
+      <DependentUpon>PD01001F02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD01001F03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD01001F03.Designer.cs">
+      <DependentUpon>PD01001F03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD01001F04.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD01001F04.Designer.cs">
+      <DependentUpon>PD01001F04.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN09001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN09001F01.Designer.cs">
+      <DependentUpon>IN09001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD02001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD02001F01.Designer.cs">
+      <DependentUpon>PD02001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\PD03001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\PD03001F01.Designer.cs">
+      <DependentUpon>PD03001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN05001F03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN05001F03.Designer.cs">
+      <DependentUpon>IN05001F03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD02001F02.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD02001F02.Designer.cs">
+      <DependentUpon>PD02001F02.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\MesImageRetr.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\MesImageRetr.Designer.cs">
+      <DependentUpon>MesImageRetr.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN010F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN010F00.Designer.cs">
+      <DependentUpon>IN010F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN010F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN010F01.Designer.cs">
+      <DependentUpon>IN010F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN10001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN10001F01.Designer.cs">
+      <DependentUpon>IN10001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD04001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD04001F01.Designer.cs">
+      <DependentUpon>PD04001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD04001F03.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\PD04001F03.Designer.cs">
+      <DependentUpon>PD04001F03.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\SYS010F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\SYS010F00.Designer.cs">
+      <DependentUpon>SYS010F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopAlarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopAlarm.Designer.cs">
+      <DependentUpon>PopAlarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopAlarmMsg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopAlarmMsg.Designer.cs">
+      <DependentUpon>PopAlarmMsg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopDocFile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopDocFile.Designer.cs">
+      <DependentUpon>PopDocFile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopSelDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopSelDoc.Designer.cs">
+      <DependentUpon>PopSelDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpSchAcnt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpSchAcnt.Designer.cs">
+      <DependentUpon>PopUpSchAcnt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpSerialTcpIp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpSerialTcpIp.Designer.cs">
+      <DependentUpon>PopUpSerialTcpIp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PP002F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PP002F00.Designer.cs">
+      <DependentUpon>PP002F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PP003F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PP003F00.Designer.cs">
+      <DependentUpon>PP003F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PP003F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PP003F01.Designer.cs">
+      <DependentUpon>PP003F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PP008F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PP008F00.designer.cs">
+      <DependentUpon>PP008F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\BusinessReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\BusinessReport.Designer.cs">
+      <DependentUpon>BusinessReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\DoctMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\DoctMgt.Designer.cs">
+      <DependentUpon>DoctMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\FaxViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\FaxViewer.Designer.cs">
+      <DependentUpon>FaxViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\EquipMgt\EquipCdHistoryMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\EquipMgt\EquipCdHistoryMgt.Designer.cs">
+      <DependentUpon>EquipCdHistoryMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\CommonCdMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\CommonCdMgt.Designer.cs">
+      <DependentUpon>CommonCdMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\AccSalaryClass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\AccSalaryClass.Designer.cs">
+      <DependentUpon>AccSalaryClass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\CompanyInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\CompanyInfo.Designer.cs">
+      <DependentUpon>CompanyInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\AccAccountNumberMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\AccAccountNumberMgt.Designer.cs">
+      <DependentUpon>AccAccountNumberMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\AccCreditCardMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\AccCreditCardMgt.Designer.cs">
+      <DependentUpon>AccCreditCardMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\AccPaymentCode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\AccPaymentCode.designer.cs">
+      <DependentUpon>AccPaymentCode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\FmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\FmLogin.designer.cs">
+      <DependentUpon>FmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\FmMainToolBar2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\FmMainToolBar2.designer.cs">
+      <DependentUpon>FmMainToolBar2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\JajaeCdMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\JajaeCdMgt.Designer.cs">
+      <DependentUpon>JajaeCdMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\WaitForm1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\WaitForm1.designer.cs">
+      <DependentUpon>WaitForm1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\HrCertificateOfEmployment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\HrCertificateOfEmployment.Designer.cs">
+      <DependentUpon>HrCertificateOfEmployment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN07001F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IN07001F01.Designer.cs">
+      <DependentUpon>IN07001F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopupEquipCdHisMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopupEquipCdHisMgt.Designer.cs">
+      <DependentUpon>PopupEquipCdHisMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\ProdCostAdder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\ProdCostAdder.Designer.cs">
+      <DependentUpon>ProdCostAdder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdPlanAdder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdPlanAdder.Designer.cs">
+      <DependentUpon>ProdPlanAdder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdPlanMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdPlanMgt.Designer.cs">
+      <DependentUpon>ProdPlanMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\PurTeamRecord.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\PurTeamRecord.Designer.cs">
+      <DependentUpon>PurTeamRecord.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\RptApplSystem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\RptApplSystem.Designer.cs">
+      <DependentUpon>RptApplSystem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\RptApplSystemP1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\RptApplSystemP1.Designer.cs">
+      <DependentUpon>RptApplSystemP1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\RptApplSystemP2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\RptApplSystemP2.Designer.cs">
+      <DependentUpon>RptApplSystemP2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptCertOfEmp.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptCertOfEmp.Designer.cs">
+      <DependentUpon>RptCertOfEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\SetHoliday.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\SetHoliday.Designer.cs">
+      <DependentUpon>SetHoliday.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptPaySlip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptPaySlip.Designer.cs">
+      <DependentUpon>RptPaySlip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResetGridViewLayout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResetGridViewLayout.Designer.cs">
+      <DependentUpon>ResetGridViewLayout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptMesuring.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptMesuring.Designer.cs">
+      <DependentUpon>RptMesuring.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptVoucher.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptVoucher.Designer.cs">
+      <DependentUpon>RptVoucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptTaxBill.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptTaxBill.Designer.cs">
+      <DependentUpon>RptTaxBill.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptTaxBill2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptTaxBill2.Designer.cs">
+      <DependentUpon>RptTaxBill2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptInspect.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptInspect.Designer.cs">
+      <DependentUpon>RptInspect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptWebFax.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptWebFax.Designer.cs">
+      <DependentUpon>RptWebFax.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptMesuring2.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptMesuring2.Designer.cs">
+      <DependentUpon>RptMesuring2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\SYS002F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\SYS002F01.Designer.cs">
+      <DependentUpon>SYS002F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\SYS003F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\SYS003F01.Designer.cs">
+      <DependentUpon>SYS003F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptInOutSlip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptInOutSlip.Designer.cs">
+      <DependentUpon>RptInOutSlip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\SYS004F01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\SYS004F01.Designer.cs">
+      <DependentUpon>SYS004F01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptAcc.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptAcc.Designer.cs">
+      <DependentUpon>RptAcc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptDealerImage.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptDealerImage.Designer.cs">
+      <DependentUpon>RptDealerImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TeamPurcPerformance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TeamPurcPerformance.Designer.cs">
+      <DependentUpon>TeamPurcPerformance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\DailyDirectSend.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\DailyDirectSend.Designer.cs">
+      <DependentUpon>DailyDirectSend.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\DailyMonthlyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\DailyMonthlyForm.Designer.cs">
+      <DependentUpon>DailyMonthlyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptDailyMonthly.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptDailyMonthly.Designer.cs">
+      <DependentUpon>RptDailyMonthly.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\EquipMgt\EquipInspect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\EquipMgt\EquipInspect.Designer.cs">
+      <DependentUpon>EquipInspect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\EquipMgt\EquipConsumeInOutMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\EquipMgt\EquipConsumeInOutMgt.Designer.cs">
+      <DependentUpon>EquipConsumeInOutMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\EquipCdMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\EquipCdMgt.Designer.cs">
+      <DependentUpon>EquipCdMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\EquipMgt\EquipConsumeInOutRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\EquipMgt\EquipConsumeInOutRpt.Designer.cs">
+      <DependentUpon>EquipConsumeInOutRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\EquipConsumeCd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\EquipConsumeCd.Designer.cs">
+      <DependentUpon>EquipConsumeCd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\AccAutoSlipType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\AccAutoSlipType.Designer.cs">
+      <DependentUpon>AccAutoSlipType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccMeasureCloseDev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccMeasureCloseDev.Designer.cs">
+      <DependentUpon>AccMeasureCloseDev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccInOutMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccInOutMgt.Designer.cs">
+      <DependentUpon>AccInOutMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdStatus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdStatus.Designer.cs">
+      <DependentUpon>ProdStatus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\QualityInspectionMgt\QimBadMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\QualityInspectionMgt\QimBadMgt.designer.cs">
+      <DependentUpon>QimBadMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpWithHoldInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpWithHoldInfo.Designer.cs">
+      <DependentUpon>PopUpWithHoldInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpVatInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpVatInfo.Designer.cs">
+      <DependentUpon>PopUpVatInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpIncmrCd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpIncmrCd.Designer.cs">
+      <DependentUpon>PopUpIncmrCd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IncomeScrapDailyReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IncomeScrapDailyReport.Designer.cs">
+      <DependentUpon>IncomeScrapDailyReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\IncomeScrapDailyRptEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\IncomeScrapDailyRptEditor.Designer.cs">
+      <DependentUpon>IncomeScrapDailyRptEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpCustomerLedger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpCustomerLedger.Designer.cs">
+      <DependentUpon>PopUpCustomerLedger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\DailyUnitCost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\DailyJikNap.Designer.cs">
+      <DependentUpon>DailyUnitCost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\DailyScrabUnitCost.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\DailyScrabUnitCost.Designer.cs">
+      <DependentUpon>DailyScrabUnitCost.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReportForm\ReportViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReportForm\ReportViewer.Designer.cs">
+      <DependentUpon>ReportViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\EquipMgt\EquipToolMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\EquipMgt\EquipToolMgt.designer.cs">
+      <DependentUpon>EquipToolMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\MesMgtProgramDev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\MesMgtProgramDev.Designer.cs">
+      <DependentUpon>MesMgtProgramDev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\QualityInspectionMgt\QimClaimDev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\QualityInspectionMgt\QimClaimDev.Designer.cs">
+      <DependentUpon>QimClaimDev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\UnitCostMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\UnitCostMgt.Designer.cs">
+      <DependentUpon>UnitCostMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\UserMgt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\UserMgt.designer.cs">
+      <DependentUpon>UserMgt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpProgramInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpProgramInsert.Designer.cs">
+      <DependentUpon>PopUpProgramInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpToolCd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpToolCd.Designer.cs">
+      <DependentUpon>PopUpToolCd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpGradeCd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpGradeCd.Designer.cs">
+      <DependentUpon>PopUpGradeCd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpEmployeeCd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpEmployeeCd.Designer.cs">
+      <DependentUpon>PopUpEmployeeCd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpEvdn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpEvdn.designer.cs">
+      <DependentUpon>PopUpEvdn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpMgmtCd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpMgmtCd.Designer.cs">
+      <DependentUpon>PopUpMgmtCd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpDeptCd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpDeptCd.Designer.cs">
+      <DependentUpon>PopUpDeptCd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpDealerCd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpDealerCd.Designer.cs">
+      <DependentUpon>PopUpDealerCd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpAccCd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpAccCd.Designer.cs">
+      <DependentUpon>PopUpAccCd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdMgtReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\ProductionMgt\ProdMgtReport.Designer.cs">
+      <DependentUpon>ProdMgtReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\PopUpUserInsert.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\PopUpUserInsert.designer.cs">
+      <DependentUpon>PopUpUserInsert.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\RptDealerCd.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptDealerCd.Designer.cs">
+      <DependentUpon>RptDealerCd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\AccDeptCdMgtDev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\AccDeptCdMgtDev.designer.cs">
+      <DependentUpon>AccDeptCdMgtDev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccFieldPSDailyRpt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccFieldPSDailyRpt.designer.cs">
+      <DependentUpon>AccFieldPSDailyRpt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\HRMgt\AccPersonnelRecordsDev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\HRMgt\AccPersonnelRecordsDev.Designer.cs">
+      <DependentUpon>AccPersonnelRecordsDev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PopUp\AccFieldPSRetrImage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PopUp\AccFieldPSRetrImage.Designer.cs">
+      <DependentUpon>AccFieldPSRetrImage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\AccDealerCdDev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\AccDealerCdDev.designer.cs">
+      <DependentUpon>AccDealerCdDev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccMeasureDev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccMeasureDev.Designer.cs">
+      <DependentUpon>AccMeasureDev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MesGradeCdDev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MesGradeCdDev.Designer.cs">
+      <DependentUpon>MesGradeCdDev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Report\RptAccSlip.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Report\RptAccSlip.Designer.cs">
+      <DependentUpon>RptAccSlip.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\BasicMgt\StandardCd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\BasicMgt\StandardCd.Designer.cs">
+      <DependentUpon>StandardCd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccMeasureDevImg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccMeasureDevImg.Designer.cs">
+      <DependentUpon>AccMeasureDevImg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccMeasureDevPopImg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form\InOutMgt\AccMeasureDevPopImg.Designer.cs">
+      <DependentUpon>AccMeasureDevPopImg.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="acc\AC02001F08.resx">
+      <DependentUpon>AC02001F08.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC07001F03.resx">
+      <DependentUpon>AC07001F03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC18001F01.resx">
+      <DependentUpon>AC18001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC02001F05.resx">
+      <DependentUpon>AC02001F05.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC01001F02.resx">
+      <DependentUpon>AC01001F02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC01001F03.resx">
+      <DependentUpon>AC01001F03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC01001F01.resx">
+      <DependentUpon>AC01001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC02001F01.resx">
+      <DependentUpon>AC02001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC02001F02.resx">
+      <DependentUpon>AC02001F02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC02001F03.resx">
+      <DependentUpon>AC02001F03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC02001F04.resx">
+      <DependentUpon>AC02001F04.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC02001F06.resx">
+      <DependentUpon>AC02001F06.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC03001F01.resx">
+      <DependentUpon>AC03001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC04001F01.resx">
+      <DependentUpon>AC04001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC05001F01.resx">
+      <DependentUpon>AC05001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC06001F01.resx">
+      <DependentUpon>AC06001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC07001F01.resx">
+      <DependentUpon>AC07001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC07001F02.resx">
+      <DependentUpon>AC07001F02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC08001F01.resx">
+      <DependentUpon>AC08001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC09001F01.resx">
+      <DependentUpon>AC09001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC10001F01.resx">
+      <DependentUpon>AC10001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC11001F01.resx">
+      <DependentUpon>AC11001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC12001F01.resx">
+      <DependentUpon>AC12001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC13001F01.resx">
+      <DependentUpon>AC13001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC13001F02.resx">
+      <DependentUpon>AC13001F02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC14001F01.resx">
+      <DependentUpon>AC14001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC14001F02.resx">
+      <DependentUpon>AC14001F02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC14001F03.resx">
+      <DependentUpon>AC14001F03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC16001F00.resx">
+      <DependentUpon>AC16001F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC16001F01.resx">
+      <DependentUpon>AC16001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC17001F01.resx">
+      <DependentUpon>AC17001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC18001F02.resx">
+      <DependentUpon>AC18001F02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC19001F00.resx">
+      <DependentUpon>AC19001F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="acc\AC20001F00.resx">
+      <DependentUpon>AC20001F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\AccFieldCustom.resx">
+      <DependentUpon>AccFieldCustom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\AccFieldVs.resx">
+      <DependentUpon>AccFieldVs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\ProdPlanA.resx">
+      <DependentUpon>ProdPlanA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\ProdPlanAA.resx">
+      <DependentUpon>ProdPlanAA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\ProdPlanB.resx">
+      <DependentUpon>ProdPlanB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\ProdPlanC.resx">
+      <DependentUpon>ProdPlanC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\AllReportIM01.resx">
+      <DependentUpon>AllReportIM01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\AccDealerCdDevimage.resx">
+      <DependentUpon>AccDealerCdDevimage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\ChagmReasonMgt.resx">
+      <DependentUpon>ChagmReasonMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\EquipMgt\EQ001F00.resx">
+      <DependentUpon>EQ001F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\EquipMgt\EquipCdHistoryMgt.resx">
+      <DependentUpon>EquipCdHistoryMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\CommonCdMgt.resx">
+      <DependentUpon>CommonCdMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\AccSalaryClass.resx">
+      <DependentUpon>AccSalaryClass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\CompanyInfo.resx">
+      <DependentUpon>CompanyInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\AccAccountNumberMgt.resx">
+      <DependentUpon>AccAccountNumberMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\AccCreditCardMgt.resx">
+      <DependentUpon>AccCreditCardMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\AccPaymentCode.resx">
+      <DependentUpon>AccPaymentCode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\FmLogin.resx">
+      <DependentUpon>FmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\FmMainToolBar2.resx">
+      <DependentUpon>FmMainToolBar2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\GE001F01.resx">
+      <DependentUpon>GE001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\GE001F00.resx">
+      <DependentUpon>GE001F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\GE002F00.resx">
+      <DependentUpon>GE002F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\GE003F00.resx">
+      <DependentUpon>GE003F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\GE003F01.resx">
+      <DependentUpon>GE003F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\IN001F02.resx">
+      <DependentUpon>IN001F02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\IN001F02_POP01.resx">
+      <DependentUpon>IN001F02_POP01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\IN001F02_POP02.resx">
+      <DependentUpon>IN001F02_POP02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\PayMgt\POP\SL001F00_POP01.resx">
+      <DependentUpon>SL001F00_POP01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\PayMgt\POP\SL001F01_POP01.resx">
+      <DependentUpon>SL001F01_POP01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\PayMgt\POP\SL001F01_POP02.resx">
+      <DependentUpon>SL001F01_POP02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\PayMgt\SL001F00.resx">
+      <DependentUpon>SL001F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\PayMgt\SL001F01.resx">
+      <DependentUpon>SL001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\PayMgt\SL002F00.resx">
+      <DependentUpon>SL002F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IN05001F02.resx">
+      <DependentUpon>IN05001F02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IN06001F01.resx">
+      <DependentUpon>IN06001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IN07001F01.resx">
+      <DependentUpon>IN07001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IN07001F02.resx">
+      <DependentUpon>IN07001F02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IN07001F03.resx">
+      <DependentUpon>IN07001F03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IN08001F01.resx">
+      <DependentUpon>IN08001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IN09001F01.resx">
+      <DependentUpon>IN09001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IN10001F01.resx">
+      <DependentUpon>IN10001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IN11001F01.resx">
+      <DependentUpon>IN11001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IN11001F02.resx">
+      <DependentUpon>IN11001F02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IN12001F01.resx">
+      <DependentUpon>IN12001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\PD03001F01.resx">
+      <DependentUpon>PD03001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\JajaeCdMgt.resx">
+      <DependentUpon>JajaeCdMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\PopEtcCostDtl.resx">
+      <DependentUpon>PopEtcCostDtl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\SC010F00.resx">
+      <DependentUpon>SC010F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\SC010F01.resx">
+      <DependentUpon>SC010F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\LstSaleResult.resx">
+      <DependentUpon>LstSaleResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\NewSalePlan.resx">
+      <DependentUpon>NewSalePlan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\PD01001F01.resx">
+      <DependentUpon>PD01001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\PD01001F02.resx">
+      <DependentUpon>PD01001F02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\PD01001F03.resx">
+      <DependentUpon>PD01001F03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\PD01001F04.resx">
+      <DependentUpon>PD01001F04.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\PD02001F01.resx">
+      <DependentUpon>PD02001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\PD02001F02.resx">
+      <DependentUpon>PD02001F02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\PD04001F01.resx">
+      <DependentUpon>PD04001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\PD04001F02.resx">
+      <DependentUpon>PD04001F02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\PD04001F03.resx">
+      <DependentUpon>PD04001F03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\PD05001F01.resx">
+      <DependentUpon>PD05001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\SYS001F01.resx">
+      <DependentUpon>SYS001F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\SYS001F02.resx">
+      <DependentUpon>SYS001F02.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\SYS002F01.resx">
+      <DependentUpon>SYS002F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\SYS003F01.resx">
+      <DependentUpon>SYS003F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\SYS004F01.resx">
+      <DependentUpon>SYS004F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\SYS010F00.resx">
+      <DependentUpon>SYS010F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\WaitForm1.resx">
+      <DependentUpon>WaitForm1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\HrCertificateOfEmployment.resx">
+      <DependentUpon>HrCertificateOfEmployment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IN05001F03.resx">
+      <DependentUpon>IN05001F03.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\MesImageRetr.resx">
+      <DependentUpon>MesImageRetr.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IN010F00.resx">
+      <DependentUpon>IN010F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IN010F01.resx">
+      <DependentUpon>IN010F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopAlarm.resx">
+      <DependentUpon>PopAlarm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopAlarmMsg.resx">
+      <DependentUpon>PopAlarmMsg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopDocFile.resx">
+      <DependentUpon>PopDocFile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopSelDoc.resx">
+      <DependentUpon>PopSelDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopupEquipCdHisMgt.resx">
+      <DependentUpon>PopupEquipCdHisMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpIncmrCd.resx">
+      <DependentUpon>PopUpIncmrCd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpSchAcnt.resx">
+      <DependentUpon>PopUpSchAcnt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpSerialTcpIp.resx">
+      <DependentUpon>PopUpSerialTcpIp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PP002F00.resx">
+      <DependentUpon>PP002F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PP003F00.resx">
+      <DependentUpon>PP003F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PP003F01.resx">
+      <DependentUpon>PP003F01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PP008F00.resx">
+      <DependentUpon>PP008F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\ProdCostAdder.resx">
+      <DependentUpon>ProdCostAdder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\ProdPlanAdder.resx">
+      <DependentUpon>ProdPlanAdder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\ProdPlanMgt.resx">
+      <DependentUpon>ProdPlanMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\AllReport.resx">
+      <DependentUpon>AllReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\AllReprotPopUpInsert.resx">
+      <DependentUpon>AllReprotPopUpInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\AllReprotPopUpSetting.resx">
+      <DependentUpon>AllReprotPopUpSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\BusinessReport.resx">
+      <DependentUpon>BusinessReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\DailyUnitCost.resx">
+      <DependentUpon>DailyUnitCost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\DoctMgt.resx">
+      <DependentUpon>DoctMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\FaxViewer.resx">
+      <DependentUpon>FaxViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\PurTeamRecord.resx">
+      <DependentUpon>PurTeamRecord.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\RptApplSystem.resx">
+      <DependentUpon>RptApplSystem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\RptApplSystemP1.resx">
+      <DependentUpon>RptApplSystemP1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\RptApplSystemP2.resx">
+      <DependentUpon>RptApplSystemP2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptCertOfEmp.resx">
+      <DependentUpon>RptCertOfEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\SetHoliday.resx">
+      <DependentUpon>SetHoliday.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptPaySlip.resx">
+      <DependentUpon>RptPaySlip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResetGridViewLayout.resx">
+      <DependentUpon>ResetGridViewLayout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptMesuring.resx">
+      <DependentUpon>RptMesuring.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptVoucher.resx">
+      <DependentUpon>RptVoucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptTaxBill.resx">
+      <DependentUpon>RptTaxBill.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptTaxBill2.resx">
+      <DependentUpon>RptTaxBill2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptInspect.resx">
+      <DependentUpon>RptInspect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptWebFax.resx">
+      <DependentUpon>RptWebFax.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptMesuring2.resx">
+      <DependentUpon>RptMesuring2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptInOutSlip.resx">
+      <DependentUpon>RptInOutSlip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptAcc.resx">
+      <DependentUpon>RptAcc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptDealerImage.resx">
+      <DependentUpon>RptDealerImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TeamPurcPerformance.resx">
+      <DependentUpon>TeamPurcPerformance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\DailyDirectSend.resx">
+      <DependentUpon>DailyDirectSend.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\DailyMonthlyForm.resx">
+      <DependentUpon>DailyMonthlyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptDailyMonthly.resx">
+      <DependentUpon>RptDailyMonthly.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\AccAutoSlipType.resx">
+      <DependentUpon>AccAutoSlipType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\AccMeasureCloseDev.resx">
+      <DependentUpon>AccMeasureCloseDev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\AccInOutMgt.resx">
+      <DependentUpon>AccInOutMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\EquipMgt\EquipInspect.resx">
+      <DependentUpon>EquipInspect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IncomeScrapDailyReport.resx">
+      <DependentUpon>IncomeScrapDailyReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\IncomeScrapDailyRptEditor.resx">
+      <DependentUpon>IncomeScrapDailyRptEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\ProdStatus.resx">
+      <DependentUpon>ProdStatus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\QualityInspectionMgt\QimBadMgt.resx">
+      <DependentUpon>QimBadMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpCustomerLedger.resx">
+      <DependentUpon>PopUpCustomerLedger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpVatInfo.resx">
+      <DependentUpon>PopUpVatInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpWithHoldInfo.resx">
+      <DependentUpon>PopUpWithHoldInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\DailyScrabUnitCost.resx">
+      <DependentUpon>DailyScrabUnitCost.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportForm\ReportViewer.resx">
+      <DependentUpon>ReportViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\EquipCdMgt.resx">
+      <DependentUpon>EquipCdMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\EquipMgt\EquipConsumeInOutMgt.resx">
+      <DependentUpon>EquipConsumeInOutMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\EquipMgt\EquipConsumeInOutRpt.resx">
+      <DependentUpon>EquipConsumeInOutRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\EquipConsumeCd.resx">
+      <DependentUpon>EquipConsumeCd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\EquipMgt\EquipToolMgt.resx">
+      <DependentUpon>EquipToolMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\MesMgtProgramDev.resx">
+      <DependentUpon>MesMgtProgramDev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\ProductionMgt\ProdMgtReport.resx">
+      <DependentUpon>ProdMgtReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\QualityInspectionMgt\QimClaimDev.resx">
+      <DependentUpon>QimClaimDev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\StandardCd.resx">
+      <DependentUpon>StandardCd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\UnitCostMgt.resx">
+      <DependentUpon>UnitCostMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\UserMgt.resx">
+      <DependentUpon>UserMgt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpProgramInsert.resx">
+      <DependentUpon>PopUpProgramInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpToolCd.resx">
+      <DependentUpon>PopUpToolCd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpEmployeeCd.resx">
+      <DependentUpon>PopUpEmployeeCd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpEvdn.resx">
+      <DependentUpon>PopUpEvdn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpGradeCd.resx">
+      <DependentUpon>PopUpGradeCd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpMgmtCd.resx">
+      <DependentUpon>PopUpMgmtCd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpDeptCd.resx">
+      <DependentUpon>PopUpDeptCd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpDealerCd.resx">
+      <DependentUpon>PopUpDealerCd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpAccCd.resx">
+      <DependentUpon>PopUpAccCd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\PopUpUserInsert.resx">
+      <DependentUpon>PopUpUserInsert.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptDealerCd.resx">
+      <DependentUpon>RptDealerCd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\AccDeptCdMgtDev.resx">
+      <DependentUpon>AccDeptCdMgtDev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\AccFieldPSDailyRpt.resx">
+      <DependentUpon>AccFieldPSDailyRpt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\HRMgt\AccPersonnelRecordsDev.resx">
+      <DependentUpon>AccPersonnelRecordsDev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PopUp\AccFieldPSRetrImage.resx">
+      <DependentUpon>AccFieldPSRetrImage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\BasicMgt\AccDealerCdDev.resx">
+      <DependentUpon>AccDealerCdDev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\AccMeasureDev.resx">
+      <DependentUpon>AccMeasureDev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MesGradeCdDev.resx">
+      <DependentUpon>MesGradeCdDev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report\RptAccSlip.resx">
+      <DependentUpon>RptAccSlip.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\AccMeasureDevImg.resx">
+      <DependentUpon>AccMeasureDevImg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form\InOutMgt\AccMeasureDevPopImg.resx">
+      <DependentUpon>AccMeasureDevPopImg.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="class\" />
+    <Folder Include="TestSample\" />
+    <Folder Include="xaml\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ComLib\ComLib.csproj">
+      <Project>{c86da2ca-e79a-47c1-ae61-dba69e1abf7b}</Project>
+      <Name>ComLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Popbill\Popbill.csproj">
+      <Project>{57f03b3e-c713-443a-ac04-90291b429204}</Project>
+      <Name>Popbill</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ReportForm\BillFormat.xlsx" />
+    <None Include="ReportForm\ImportScrapDailyReportFormat.xlsx" />
+    <None Include="ReportForm\TaxBillFormat.xlsx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2%28x86 및 x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="DJ_ICON.ico" />
+    <None Include="Resources\warning %281%29.png" />
+    <None Include="Resources\warning %282%29.png" />
+    <None Include="Resources\excelsample.png" />
+    <None Include="Resources\notification1.png" />
+    <None Include="Resources\notification.png" />
+    <None Include="Resources\bell.png" />
+    <None Include="Resources\bell1.png" />
+    <None Include="Resources\close.png" />
+    <Content Include="Resources\DJ_ICON.ico" />
+    <None Include="Resources\preview_16x16.png" />
+    <None Include="Resources\contentautoarrange_16x16.png" />
+    <None Include="Resources\colors_32x32.png" />
+    <None Include="Resources\colors_16x16.png" />
+    <None Include="Resources\cancel_16x165.png" />
+    <None Include="Resources\refresh2_16x16.png" />
+    <None Include="Resources\hyperlink_16x16.png" />
+    <None Include="Resources\buy_16x16.png" />
+    <None Include="Resources\No_Img1.jpg" />
+    <None Include="Resources\No_Img.jpg" />
+    <None Include="Resources\cancel_16x164.png" />
+    <None Include="Resources\dafualtfaxnetwork_16x16.png" />
+    <None Include="Resources\close_32x32.png" />
+    <None Include="Resources\close_16x16.png" />
+    <None Include="Resources\reset_32x32.png" />
+    <None Include="Resources\reset_16x16.png" />
+    <None Include="Resources\carousel_32x32.png" />
+    <None Include="Resources\carousel_16x16.png" />
+    <None Include="Resources\exportfile_16x16.png" />
+    <None Include="Resources\changedatasourcepivottable_16x16.png" />
+    <None Include="Resources\properties_16x16.png" />
+    <None Include="Resources\ide_16x16.png" />
+    <None Include="Resources\redo_16x16.png" />
+    <None Include="Resources\fax_16x16.png" />
+    <None Include="Resources\publish_16x16.png" />
+    <None Include="Resources\movepivottable_16x16.png" />
+    <None Include="Resources\issue_16x16.png" />
+    <None Include="Resources\print_16x16.png" />
+    <None Include="Resources\cancel_16x163.png" />
+    <None Include="Resources\add_16x161.png" />
+    <None Include="Resources\cancel_16x162.png" />
+    <None Include="Resources\save_16x16.png" />
+    <None Include="Resources\saveall_16x16.png" />
+    <None Include="Resources\add_16x16.png" />
+    <None Include="Resources\cancel_16x161.png" />
+    <None Include="Resources\converttorange_16x161.png" />
+    <None Include="Resources\apply_16x16.png" />
+    <None Include="Resources\cancel_16x16.png" />
+    <None Include="Resources\converttorange_16x16.png" />
+    <None Include="Resources\deletedatasource_16x16.png" />
+    <None Include="Resources\addfile_16x16.png" />
+    <None Include="Resources\zoom_16x16.png" />
+    <EmbeddedResource Include="GuideImage.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

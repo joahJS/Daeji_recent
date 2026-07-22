@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\OpenCvSharp3-AnyCPU.4.0.0.20181129\build\OpenCvSharp3-AnyCPU.props" Condition="Exists('..\packages\OpenCvSharp3-AnyCPU.4.0.0.20181129\build\OpenCvSharp3-AnyCPU.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{75282183-24D2-4D07-A1B7-B3892F9F3F54}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Daeji_MONITERING</RootNamespace>
+    <AssemblyName>Daeji_MONITERING</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>false</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>Properties\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Accessibility" />
+    <Reference Include="DevExpress.BonusSkins.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v18.2.Core, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v18.2, Version=18.2.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCvSharp3-AnyCPU.4.0.0.20181129\lib\net461\OpenCvSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp.Blob, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCvSharp3-AnyCPU.4.0.0.20181129\lib\net461\OpenCvSharp.Blob.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp.Extensions, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCvSharp3-AnyCPU.4.0.0.20181129\lib\net461\OpenCvSharp.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenCvSharp.UserInterface, Version=1.0.0.0, Culture=neutral, PublicKeyToken=6adad1e807fea099, processorArchitecture=MSIL">
+      <HintPath>..\packages\OpenCvSharp3-AnyCPU.4.0.0.20181129\lib\net461\OpenCvSharp.UserInterface.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BACKGRUOND.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BACKGRUOND.Designer.cs">
+      <DependentUpon>BACKGRUOND.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ComnLib\ComnEtcFunc.cs" />
+    <Compile Include="ComnLib\ComnGridFunc.cs" />
+    <Compile Include="ComnLib\ComnMethod.cs" />
+    <Compile Include="ComnLib\ComnString.cs" />
+    <Compile Include="ComnLib\DBConn.cs" />
+    <Compile Include="ComnLib\IniUtil.cs" />
+    <Compile Include="CV001F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CV001F00.Designer.cs">
+      <DependentUpon>CV001F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DJMONITERING.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DJMONITERING.Designer.cs">
+      <DependentUpon>DJMONITERING.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MS001F00.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MS001F00.Designer.cs">
+      <DependentUpon>MS001F00.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="SETTING.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SETTING.Designer.cs">
+      <DependentUpon>SETTING.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="BACKGRUOND.resx">
+      <DependentUpon>BACKGRUOND.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CV001F00.resx">
+      <DependentUpon>CV001F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DJMONITERING.resx">
+      <DependentUpon>DJMONITERING.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MS001F00.resx">
+      <DependentUpon>MS001F00.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SETTING.resx">
+      <DependentUpon>SETTING.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="OpenCvSharpExtern.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\횡압최종.png" />
+    <None Include="Resources\절단최종.png" />
+    <None Include="Resources\이송최종.png" />
+    <None Include="Resources\압축최종.png" />
+    <None Include="Resources\덮개최종.png" />
+    <None Include="Resources\P라인압력.png" />
+    <None Include="Resources\후진on.png" />
+    <None Include="Resources\후진off.png" />
+    <None Include="Resources\횡압타이틀.png" />
+    <None Include="Resources\화면전환BTN.png" />
+    <None Include="Resources\화면전환2btn.png" />
+    <None Include="Resources\하강on.png" />
+    <None Include="Resources\하강off.png" />
+    <None Include="Resources\차지카운트.png" />
+    <None Include="Resources\중량ON.png" />
+    <None Include="Resources\중량OFF.png" />
+    <None Include="Resources\조천희on.png" />
+    <None Include="Resources\조천희off.png" />
+    <None Include="Resources\절단타이틀.png" />
+    <None Include="Resources\전진on.png" />
+    <None Include="Resources\전진off.png" />
+    <None Include="Resources\작업자타이틀back.png" />
+    <None Include="Resources\작업자목록타이틀.png" />
+    <None Include="Resources\작동유압력.png" />
+    <None Include="Resources\이송타이틀.png" />
+    <None Include="Resources\유진균on.png" />
+    <None Include="Resources\유진균off.png" />
+    <None Include="Resources\원위치on.png" />
+    <None Include="Resources\원위치off.png" />
+    <None Include="Resources\온도타이틀.png" />
+    <None Include="Resources\온도.png" />
+    <None Include="Resources\예비3on.png" />
+    <None Include="Resources\예비3off.png" />
+    <None Include="Resources\예비2on.png" />
+    <None Include="Resources\예비2off.png" />
+    <None Include="Resources\예비1on.png" />
+    <None Include="Resources\예비1off.png" />
+    <None Include="Resources\열기on.png" />
+    <None Include="Resources\열기off.png" />
+    <None Include="Resources\압축타이틀.png" />
+    <None Include="Resources\압축ON.png" />
+    <None Include="Resources\압축OFF.png" />
+    <None Include="Resources\압력타이틀.png" />
+    <None Include="Resources\압력배경off.png" />
+    <None Include="Resources\압력 배경_on.png" />
+    <None Include="Resources\알람메세지.png" />
+    <None Include="Resources\상승on.png" />
+    <None Include="Resources\상승off.png" />
+    <None Include="Resources\밀기on.png" />
+    <None Include="Resources\밀기off.png" />
+    <None Include="Resources\덮개타이틀.png" />
+    <None Include="Resources\닫기on.png" />
+    <None Include="Resources\닫기off.png" />
+    <None Include="Resources\김주대on.png" />
+    <None Include="Resources\김주대off.png" />
+    <None Include="Resources\김병진on.png" />
+    <None Include="Resources\김병진off.png" />
+    <None Include="Resources\김병각on.png" />
+    <None Include="Resources\김병각off.png" />
+    <None Include="Resources\과전류on.png" />
+    <None Include="Resources\과전류off.png" />
+    <None Include="Resources\경고창.png" />
+    <None Include="Resources\pngtree.jpg" />
+    <None Include="Resources\monitor2back.png" />
+    <None Include="Resources\MONITOR1BACK.png" />
+    <None Include="Resources\icoExit.png" />
+    <None Include="Resources\GSON.png" />
+    <None Include="Resources\GSOFF.png" />
+    <None Include="Resources\gauge.png" />
+    <None Include="Resources\cctv2.png" />
+    <None Include="Resources\cctv1.png" />
+    <None Include="Resources\btr.png" />
+    <None Include="Resources\bt.png" />
+    <None Include="Resources\back0.png" />
+    <None Include="Resources\4B89DC.png" />
+    <None Include="Resources\1공정진행도.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>이 프로젝트는 이 컴퓨터에 없는 NuGet 패키지를 참조합니다. 해당 패키지를 다운로드하려면 NuGet 패키지 복원을 사용하십시오. 자세한 내용은 http://go.microsoft.com/fwlink/?LinkID=322105를 참조하십시오. 누락된 파일은 {0}입니다.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\OpenCvSharp3-AnyCPU.4.0.0.20181129\build\OpenCvSharp3-AnyCPU.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\OpenCvSharp3-AnyCPU.4.0.0.20181129\build\OpenCvSharp3-AnyCPU.props'))" />
+  </Target>
+</Project>

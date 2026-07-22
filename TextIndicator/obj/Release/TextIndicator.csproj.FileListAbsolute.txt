@@ -1,0 +1,39 @@
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\bin\Release\TextIndicator.dll
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\bin\Release\TextIndicator.pdb
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\obj\Release\TextIndicator.csprojResolveAssemblyReference.cache
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\obj\Release\TextIndicator.Indicator.resources
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\obj\Release\TextIndicator.Properties.Resources.resources
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\obj\Release\TextIndicator.csproj.GenerateResource.Cache
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\obj\Release\TextIndicator.dll
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\obj\Release\TextIndicator.pdb
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\bin\Release\TextIndicator.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\bin\Release\TextIndicator.pdb
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\obj\Release\TextIndicator.Indicator.resources
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\obj\Release\TextIndicator.Properties.Resources.resources
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\obj\Release\TextIndicator.csproj.GenerateResource.Cache
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\obj\Release\TextIndicator.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\obj\Release\TextIndicator.pdb
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\obj\Release\TextIndicator.csprojResolveAssemblyReference.cache
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\bin\Release\TextIndicator.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\bin\Release\TextIndicator.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\obj\Release\TextIndicator.Indicator.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\obj\Release\TextIndicator.Properties.Resources.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\obj\Release\TextIndicator.csproj.GenerateResource.Cache
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\obj\Release\TextIndicator.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\obj\Release\TextIndicator.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\obj\Release\TextIndicator.csprojResolveAssemblyReference.cache
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\TextIndicator\bin\Release\TextIndicator.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\TextIndicator\bin\Release\TextIndicator.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\TextIndicator\obj\Release\TextIndicator.Indicator.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\TextIndicator\obj\Release\TextIndicator.Properties.Resources.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\TextIndicator\obj\Release\TextIndicator.csproj.GenerateResource.Cache
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\TextIndicator\obj\Release\TextIndicator.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\TextIndicator\obj\Release\TextIndicator.pdb
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\bin\Release\TextIndicator.dll
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\bin\Release\TextIndicator.pdb
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\obj\Release\TextIndicator.Indicator.resources
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\obj\Release\TextIndicator.Properties.Resources.resources
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\obj\Release\TextIndicator.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\obj\Release\TextIndicator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\obj\Release\TextIndicator.dll
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\obj\Release\TextIndicator.pdb

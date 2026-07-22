@@ -1,0 +1,310 @@
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csprojAssemblyReference.cache
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.Properties.Resources.resources
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.GenerateResource.cache
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.exe.config
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.exe
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.pdb
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.Form1.resources
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.SplashScreen1.resources
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.exe.licenses
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.CopyComplete
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.exe
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.pdb
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.exe.config
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.exe
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.pdb
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Data.v18.2.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Utils.v18.2.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.XtraBars.v18.2.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Data.v18.2.xml
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Utils.v18.2.xml
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.XtraBars.v18.2.xml
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csprojAssemblyReference.cache
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.Form1.resources
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.Properties.Resources.resources
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.SplashScreen1.resources
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.GenerateResource.cache
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.exe.licenses
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.CoreCompileInputs.cache
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.CopyComplete
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.exe
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.pdb
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.exe.config
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.exe
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.pdb
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csprojAssemblyReference.cache
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.Form1.resources
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.Properties.Resources.resources
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.SplashScreen1.resources
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.GenerateResource.cache
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.exe.licenses
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.CoreCompileInputs.cache
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.CopyComplete
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.exe
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\대지 업데이트프로그램\Daeji_UPDATE 최신\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.pdb
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.exe.config
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.exe
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.pdb
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csprojAssemblyReference.cache
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.Form1.resources
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.Properties.Resources.resources
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.SplashScreen1.resources
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.GenerateResource.cache
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.exe.licenses
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.CoreCompileInputs.cache
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.CopyComplete
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.exe
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.pdb
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.exe.config
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.exe
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\Daeji_UPDATE.pdb
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csprojAssemblyReference.cache
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.Form1.resources
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.Properties.Resources.resources
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.SplashScreen1.resources
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.GenerateResource.cache
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.exe.licenses
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.CoreCompileInputs.cache
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.csproj.CopyComplete
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.exe
+C:\Users\이상\Documents\Daeji_SVN\Daeji_UPDATE\obj\Debug\Daeji_UPDATE.pdb
