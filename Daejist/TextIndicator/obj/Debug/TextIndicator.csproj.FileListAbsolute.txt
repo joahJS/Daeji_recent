@@ -1,0 +1,195 @@
+E:\Visual C#\[NAT]\UITest\TextIndicator\obj\Debug\TextIndicator.csprojResolveAssemblyReference.cache
+E:\Visual C#\[NAT]\UITest\TextIndicator\obj\Debug\UITest.Indicator.resources
+E:\Visual C#\[NAT]\UITest\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+E:\Visual C#\[NAT]\UITest\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.Cache
+E:\Visual C#\[NAT]\UITest\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+E:\Visual C#\[NAT]\제작 UI\TextIndicator\obj\Debug\TextIndicator.csprojResolveAssemblyReference.cache
+E:\Visual C#\[NAT]\제작 UI\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+E:\Visual C#\[NAT]\제작 UI\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+E:\Visual C#\[NAT]\제작 UI\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.Cache
+E:\Visual C#\[NAT]\제작 UI\TextIndicator\bin\Debug\TextIndicator.dll
+E:\Visual C#\[NAT]\제작 UI\TextIndicator\bin\Debug\TextIndicator.pdb
+E:\Visual C#\[NAT]\제작 UI\TextIndicator\obj\Debug\TextIndicator.dll
+E:\Visual C#\[NAT]\제작 UI\TextIndicator\obj\Debug\TextIndicator.pdb
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\obj\Debug\TextIndicator.csprojResolveAssemblyReference.cache
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.Cache
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\obj\Debug\TextIndicator.dll
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\obj\Debug\TextIndicator.pdb
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\bin\Debug\TextIndicator.dll
+E:\Visual C#\[NAT]\인디케이터 UI\TextIndicator\bin\Debug\TextIndicator.pdb
+D:\CSPWeighingSystem\TextIndicator\bin\Debug\TextIndicator.dll
+D:\CSPWeighingSystem\TextIndicator\bin\Debug\TextIndicator.pdb
+D:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+D:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+D:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.Cache
+D:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.dll
+D:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.pdb
+D:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.csprojResolveAssemblyReference.cache
+F:\CSP\CSPWeighingSystem\TextIndicator\bin\Debug\TextIndicator.dll
+F:\CSP\CSPWeighingSystem\TextIndicator\bin\Debug\TextIndicator.pdb
+F:\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.csprojResolveAssemblyReference.cache
+F:\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+F:\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+F:\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.Cache
+F:\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.dll
+F:\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.pdb
+G:\CSPWeighingSystem\TextIndicator\bin\Debug\TextIndicator.dll
+G:\CSPWeighingSystem\TextIndicator\bin\Debug\TextIndicator.pdb
+G:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+G:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+G:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.Cache
+G:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.dll
+G:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.pdb
+D:\CSP\CSPWeighingSystem\TextIndicator\bin\Debug\TextIndicator.dll
+D:\CSP\CSPWeighingSystem\TextIndicator\bin\Debug\TextIndicator.pdb
+D:\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+D:\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+D:\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.Cache
+D:\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.dll
+D:\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.pdb
+F:\CSPWeighingSystem\TextIndicator\bin\Debug\TextIndicator.dll
+F:\CSPWeighingSystem\TextIndicator\bin\Debug\TextIndicator.pdb
+F:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+F:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+F:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.Cache
+F:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.dll
+F:\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.pdb
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\bin\Debug\TextIndicator.dll
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\bin\Debug\TextIndicator.pdb
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.Cache
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.dll
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.pdb
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.csprojResolveAssemblyReference.cache
+F:\CSP Project\CSPWeighingSystem\TextIndicator\bin\Debug\TextIndicator.dll
+F:\CSP Project\CSPWeighingSystem\TextIndicator\bin\Debug\TextIndicator.pdb
+F:\CSP Project\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+F:\CSP Project\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+F:\CSP Project\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.Cache
+F:\CSP Project\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.dll
+F:\CSP Project\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.pdb
+F:\CSP Project\CSPWeighingSystem\TextIndicator\obj\Debug\TextIndicator.csprojResolveAssemblyReference.cache
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\bin\Debug\TextIndicator.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\bin\Debug\TextIndicator.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\obj\Debug\TextIndicator.csprojResolveAssemblyReference.cache
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.Cache
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\obj\Debug\TextIndicator.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem\TextIndicator\obj\Debug\TextIndicator.pdb
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\bin\Debug\TextIndicator.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\bin\Debug\TextIndicator.pdb
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\obj\Debug\TextIndicator.csprojResolveAssemblyReference.cache
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.Cache
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\obj\Debug\TextIndicator.dll
+D:\PROJECT\Visual C#\DEAJIST\WeighingSystem\TextIndicator\obj\Debug\TextIndicator.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\TextIndicator\bin\Debug\TextIndicator.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\TextIndicator\bin\Debug\TextIndicator.pdb
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.Cache
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\TextIndicator\obj\Debug\TextIndicator.dll
+D:\PROJECT\Visual C#\대지에스텍\WeighingSystem_c1remove\TextIndicator\obj\Debug\TextIndicator.pdb
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\bin\Debug\TextIndicator.dll
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\bin\Debug\TextIndicator.pdb
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\obj\Debug\TextIndicator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\obj\Debug\TextIndicator.dll
+C:\Users\USER\Desktop\대지_무인계근_엔로비\WeighingSystem_c1remove\WeighingSystem_c1remove\TextIndicator\obj\Debug\TextIndicator.pdb
+D:\Weigh\Weigh\TextIndicator\bin\Debug\TextIndicator.dll
+D:\Weigh\Weigh\TextIndicator\bin\Debug\TextIndicator.pdb
+D:\Weigh\Weigh\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+D:\Weigh\Weigh\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+D:\Weigh\Weigh\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.cache
+D:\Weigh\Weigh\TextIndicator\obj\Debug\TextIndicator.csproj.CoreCompileInputs.cache
+D:\Weigh\Weigh\TextIndicator\obj\Debug\TextIndicator.dll
+D:\Weigh\Weigh\TextIndicator\obj\Debug\TextIndicator.pdb
+D:\Weigh\Weigh\TextIndicator\obj\Debug\TextIndicator.csprojAssemblyReference.cache
+C:\_NET_PROJECT\DJ_WEIGHING_SYSTEM\TextIndicator\bin\Debug\TextIndicator.dll
+C:\_NET_PROJECT\DJ_WEIGHING_SYSTEM\TextIndicator\bin\Debug\TextIndicator.pdb
+C:\_NET_PROJECT\DJ_WEIGHING_SYSTEM\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+C:\_NET_PROJECT\DJ_WEIGHING_SYSTEM\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+C:\_NET_PROJECT\DJ_WEIGHING_SYSTEM\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.cache
+C:\_NET_PROJECT\DJ_WEIGHING_SYSTEM\TextIndicator\obj\Debug\TextIndicator.csproj.CoreCompileInputs.cache
+C:\_NET_PROJECT\DJ_WEIGHING_SYSTEM\TextIndicator\obj\Debug\TextIndicator.dll
+C:\_NET_PROJECT\DJ_WEIGHING_SYSTEM\TextIndicator\obj\Debug\TextIndicator.pdb
+C:\_NET_PROJECT\DJ_WEIGHING_SYSTEM\TextIndicator\obj\Debug\TextIndicator.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\DJWW\DJ_WEIGHING_SYSTEM\TextIndicator\bin\Debug\TextIndicator.dll
+C:\Users\USER\Desktop\DJWW\DJ_WEIGHING_SYSTEM\TextIndicator\bin\Debug\TextIndicator.pdb
+C:\Users\USER\Desktop\DJWW\DJ_WEIGHING_SYSTEM\TextIndicator\obj\Debug\TextIndicator.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\DJWW\DJ_WEIGHING_SYSTEM\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+C:\Users\USER\Desktop\DJWW\DJ_WEIGHING_SYSTEM\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+C:\Users\USER\Desktop\DJWW\DJ_WEIGHING_SYSTEM\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\DJWW\DJ_WEIGHING_SYSTEM\TextIndicator\obj\Debug\TextIndicator.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\DJWW\DJ_WEIGHING_SYSTEM\TextIndicator\obj\Debug\TextIndicator.dll
+C:\Users\USER\Desktop\DJWW\DJ_WEIGHING_SYSTEM\TextIndicator\obj\Debug\TextIndicator.pdb
+C:\Users\user\source\repos\WeightingSystem\TextIndicator\bin\Debug\TextIndicator.dll
+C:\Users\user\source\repos\WeightingSystem\TextIndicator\bin\Debug\TextIndicator.pdb
+C:\Users\user\source\repos\WeightingSystem\TextIndicator\obj\Debug\TextIndicator.csprojAssemblyReference.cache
+C:\Users\user\source\repos\WeightingSystem\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+C:\Users\user\source\repos\WeightingSystem\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+C:\Users\user\source\repos\WeightingSystem\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WeightingSystem\TextIndicator\obj\Debug\TextIndicator.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WeightingSystem\TextIndicator\obj\Debug\TextIndicator.dll
+C:\Users\user\source\repos\WeightingSystem\TextIndicator\obj\Debug\TextIndicator.pdb
+C:\Users\psh\Desktop\무인계근ver2\TextIndicator\bin\Debug\TextIndicator.dll
+C:\Users\psh\Desktop\무인계근ver2\TextIndicator\bin\Debug\TextIndicator.pdb
+C:\Users\psh\Desktop\무인계근ver2\TextIndicator\obj\Debug\TextIndicator.csprojAssemblyReference.cache
+C:\Users\psh\Desktop\무인계근ver2\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+C:\Users\psh\Desktop\무인계근ver2\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+C:\Users\psh\Desktop\무인계근ver2\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.cache
+C:\Users\psh\Desktop\무인계근ver2\TextIndicator\obj\Debug\TextIndicator.csproj.CoreCompileInputs.cache
+C:\Users\psh\Desktop\무인계근ver2\TextIndicator\obj\Debug\TextIndicator.dll
+C:\Users\psh\Desktop\무인계근ver2\TextIndicator\obj\Debug\TextIndicator.pdb
+D:\무인계근ver2\무인계근ver2\TextIndicator\bin\Debug\TextIndicator.dll
+D:\무인계근ver2\무인계근ver2\TextIndicator\bin\Debug\TextIndicator.pdb
+D:\무인계근ver2\무인계근ver2\TextIndicator\obj\Debug\TextIndicator.csprojAssemblyReference.cache
+D:\무인계근ver2\무인계근ver2\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+D:\무인계근ver2\무인계근ver2\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+D:\무인계근ver2\무인계근ver2\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.cache
+D:\무인계근ver2\무인계근ver2\TextIndicator\obj\Debug\TextIndicator.csproj.CoreCompileInputs.cache
+D:\무인계근ver2\무인계근ver2\TextIndicator\obj\Debug\TextIndicator.dll
+D:\무인계근ver2\무인계근ver2\TextIndicator\obj\Debug\TextIndicator.pdb
+C:\Users\psh\Desktop\무인계근RTSP_V03\TextIndicator\bin\Debug\TextIndicator.dll
+C:\Users\psh\Desktop\무인계근RTSP_V03\TextIndicator\bin\Debug\TextIndicator.pdb
+C:\Users\psh\Desktop\무인계근RTSP_V03\TextIndicator\obj\Debug\TextIndicator.csprojAssemblyReference.cache
+C:\Users\psh\Desktop\무인계근RTSP_V03\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+C:\Users\psh\Desktop\무인계근RTSP_V03\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+C:\Users\psh\Desktop\무인계근RTSP_V03\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.cache
+C:\Users\psh\Desktop\무인계근RTSP_V03\TextIndicator\obj\Debug\TextIndicator.csproj.CoreCompileInputs.cache
+C:\Users\psh\Desktop\무인계근RTSP_V03\TextIndicator\obj\Debug\TextIndicator.dll
+C:\Users\psh\Desktop\무인계근RTSP_V03\TextIndicator\obj\Debug\TextIndicator.pdb
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\최신버전(24.03.21~)\무인계근RTSP_V05\TextIndicator\bin\Debug\TextIndicator.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\최신버전(24.03.21~)\무인계근RTSP_V05\TextIndicator\bin\Debug\TextIndicator.pdb
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\최신버전(24.03.21~)\무인계근RTSP_V05\TextIndicator\obj\Debug\TextIndicator.csprojAssemblyReference.cache
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\최신버전(24.03.21~)\무인계근RTSP_V05\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\최신버전(24.03.21~)\무인계근RTSP_V05\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\최신버전(24.03.21~)\무인계근RTSP_V05\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.cache
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\최신버전(24.03.21~)\무인계근RTSP_V05\TextIndicator\obj\Debug\TextIndicator.csproj.CoreCompileInputs.cache
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\최신버전(24.03.21~)\무인계근RTSP_V05\TextIndicator\obj\Debug\TextIndicator.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\최신버전(24.03.21~)\무인계근RTSP_V05\TextIndicator\obj\Debug\TextIndicator.pdb
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\1최신버전(24.04.25)\무인계근RTSP_V05\TextIndicator\bin\Debug\TextIndicator.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\1최신버전(24.04.25)\무인계근RTSP_V05\TextIndicator\bin\Debug\TextIndicator.pdb
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\1최신버전(24.04.25)\무인계근RTSP_V05\TextIndicator\obj\Debug\TextIndicator.csprojAssemblyReference.cache
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\1최신버전(24.04.25)\무인계근RTSP_V05\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\1최신버전(24.04.25)\무인계근RTSP_V05\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\1최신버전(24.04.25)\무인계근RTSP_V05\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.cache
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\1최신버전(24.04.25)\무인계근RTSP_V05\TextIndicator\obj\Debug\TextIndicator.csproj.CoreCompileInputs.cache
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\1최신버전(24.04.25)\무인계근RTSP_V05\TextIndicator\obj\Debug\TextIndicator.dll
+C:\Users\psh\Desktop\대지폴더\대지프로그램(무인계근,모니터링,웹 등)\1무인계근\1최신버전(24.04.25)\무인계근RTSP_V05\TextIndicator\obj\Debug\TextIndicator.pdb
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\TextIndicator\bin\Debug\TextIndicator.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\TextIndicator\bin\Debug\TextIndicator.pdb
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\TextIndicator\obj\Debug\TextIndicator.csprojAssemblyReference.cache
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.cache
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\TextIndicator\obj\Debug\TextIndicator.csproj.CoreCompileInputs.cache
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\TextIndicator\obj\Debug\TextIndicator.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\TextIndicator\obj\Debug\TextIndicator.pdb

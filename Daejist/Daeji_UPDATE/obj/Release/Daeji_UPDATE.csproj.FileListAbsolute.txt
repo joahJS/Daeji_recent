@@ -1,0 +1,29 @@
+C:\Users\user\Desktop\대지업데이트\Daeji_UPDATE.exe.config
+C:\Users\user\Desktop\대지업데이트\Daeji_UPDATE.exe
+C:\Users\user\Desktop\대지업데이트\Daeji_UPDATE.pdb
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.csprojAssemblyReference.cache
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.Form1.resources
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.Properties.Resources.resources
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.SplashScreen1.resources
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.csproj.GenerateResource.cache
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.exe.licenses
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.csproj.CopyComplete
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.exe
+C:\Users\user\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.pdb
+C:\Users\user\source\repos\DaejiERP\AccAdm\bin\Release\Daeji_UPDATE.exe.config
+C:\Users\user\source\repos\DaejiERP\AccAdm\bin\Release\Daeji_UPDATE.exe
+C:\Users\user\source\repos\DaejiERP\AccAdm\bin\Release\Daeji_UPDATE.pdb
+F:\source\repos\DaejiERP\AccAdm\bin\Release\Daeji_UPDATE.exe.config
+F:\source\repos\DaejiERP\AccAdm\bin\Release\Daeji_UPDATE.exe
+F:\source\repos\DaejiERP\AccAdm\bin\Release\Daeji_UPDATE.pdb
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.csprojAssemblyReference.cache
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.Form1.resources
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.Properties.Resources.resources
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.SplashScreen1.resources
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.csproj.GenerateResource.cache
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.exe.licenses
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.csproj.CoreCompileInputs.cache
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.csproj.CopyComplete
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.exe
+F:\source\repos\대지 업데이트프로그램\Daeji_UPDATE\Daeji_UPDATE\obj\Release\Daeji_UPDATE.pdb

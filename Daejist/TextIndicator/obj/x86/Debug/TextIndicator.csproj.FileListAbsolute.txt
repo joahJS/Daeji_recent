@@ -1,0 +1,8 @@
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\bin\x86\Debug\TextIndicator.dll
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\bin\x86\Debug\TextIndicator.pdb
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Debug\TextIndicator.Indicator.resources
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Debug\TextIndicator.Properties.Resources.resources
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Debug\TextIndicator.csproj.GenerateResource.Cache
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Debug\TextIndicator.dll
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Debug\TextIndicator.pdb
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Debug\TextIndicator.csprojResolveAssemblyReference.cache

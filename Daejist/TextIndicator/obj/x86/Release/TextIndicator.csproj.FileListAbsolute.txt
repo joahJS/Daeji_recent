@@ -1,0 +1,21 @@
+F:\CSP\CSPWeighingSystem\TextIndicator\bin\x86\Release\TextIndicator.dll
+F:\CSP\CSPWeighingSystem\TextIndicator\bin\x86\Release\TextIndicator.pdb
+F:\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.Indicator.resources
+F:\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.Properties.Resources.resources
+F:\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.csproj.GenerateResource.Cache
+F:\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.dll
+F:\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.pdb
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\bin\x86\Release\TextIndicator.dll
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\bin\x86\Release\TextIndicator.pdb
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.Indicator.resources
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.Properties.Resources.resources
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.csproj.GenerateResource.Cache
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.dll
+D:\PROJECT\Visual C#\CSP\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.pdb
+F:\CSP Project\CSPWeighingSystem\TextIndicator\bin\x86\Release\TextIndicator.dll
+F:\CSP Project\CSPWeighingSystem\TextIndicator\bin\x86\Release\TextIndicator.pdb
+F:\CSP Project\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.Indicator.resources
+F:\CSP Project\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.Properties.Resources.resources
+F:\CSP Project\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.csproj.GenerateResource.Cache
+F:\CSP Project\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.dll
+F:\CSP Project\CSPWeighingSystem\TextIndicator\obj\x86\Release\TextIndicator.pdb
