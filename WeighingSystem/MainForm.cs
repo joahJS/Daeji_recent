@@ -1703,7 +1703,12 @@ namespace WeighingSystem
                                                 indicator.Stable = true;
 
                                                 //SetCompleteButton(true);
-                                                Page4_Button_Click(buttonTab5Complete, null);   //24.04.25
+                                                // 인디케이터 DataReceived는 백그라운드(ThreadPool) 스레드에서 발생하므로
+                                                // 팝업(PrintForm 등) UI 처리를 위해 반드시 UI 스레드로 마샬링한다
+                                                if (this.InvokeRequired)
+                                                    this.Invoke(new MethodInvoker(() => Page4_Button_Click(buttonTab5Complete, null)));
+                                                else
+                                                    Page4_Button_Click(buttonTab5Complete, null);   //24.04.25
                                                 /*
                                                  * 2020-12-08 
                                                  * 중량확정 시 5초간 아무런 액션이 없을 시 자동으로 완료처리되도록 로직추가
