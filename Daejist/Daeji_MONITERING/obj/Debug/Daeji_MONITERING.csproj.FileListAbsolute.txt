@@ -1,0 +1,460 @@
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\Daeji_MONITERING.exe.config
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\Daeji_MONITERING.exe
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\Daeji_MONITERING.pdb
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\Newtonsoft.Json.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\OpenCvSharp.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\Newtonsoft.Json.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\OpenCvSharp.pdb
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\OpenCvSharp.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csprojAssemblyReference.cache
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.BACKGRUOND.resources
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.CV001F00.resources
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.DJMONITERING.resources
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.MS001F00.resources
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.Properties.Resources.resources
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.SETTING.resources
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csproj.GenerateResource.cache
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.exe.licenses
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csproj.CoreCompileInputs.cache
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csproj.CopyComplete
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.exe
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.pdb
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\Daeji_MONITERING.exe.config
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\Daeji_MONITERING.exe
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\Daeji_MONITERING.pdb
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\Newtonsoft.Json.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\Newtonsoft.Json.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.pdb
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csprojAssemblyReference.cache
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.BACKGRUOND.resources
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.CV001F00.resources
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.DJMONITERING.resources
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.MS001F00.resources
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.Properties.Resources.resources
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.SETTING.resources
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csproj.GenerateResource.cache
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.exe.licenses
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csproj.CoreCompileInputs.cache
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csproj.CopyComplete
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.exe
+C:\Users\psh\Desktop\대지폴더\대지관련\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.pdb
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csprojAssemblyReference.cache
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.BACKGRUOND.resources
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.CV001F00.resources
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.DJMONITERING.resources
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.MS001F00.resources
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.Properties.Resources.resources
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.SETTING.resources
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csproj.GenerateResource.cache
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.exe.licenses
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csproj.CoreCompileInputs.cache
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.exe
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.pdb
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\Daeji_MONITERING.exe.config
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\Daeji_MONITERING.exe
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\Daeji_MONITERING.pdb
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\Newtonsoft.Json.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\Newtonsoft.Json.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.pdb
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\모니터링 최신\모니터링(리소스이미지완성본)_참고\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csproj.CopyComplete
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\OpenCvSharpExtern.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\Daeji_MONITERING.exe.config
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\Daeji_MONITERING.exe
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\Daeji_MONITERING.pdb
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.BonusSkins.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.Data.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.Printing.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.Sparkline.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.Utils.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.XtraBars.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.XtraEditors.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.XtraGrid.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.XtraLayout.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.XtraPrinting.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\Newtonsoft.Json.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\OpenCvSharp.Blob.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\OpenCvSharp.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\OpenCvSharp.Extensions.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\OpenCvSharp.UserInterface.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.Pdf.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.RichEdit.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.XtraTreeList.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.Office.v18.2.Core.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.Images.v18.2.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.Data.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.Printing.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.Sparkline.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.Utils.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.XtraBars.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.XtraEditors.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.XtraGrid.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.XtraLayout.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.XtraPrinting.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\Newtonsoft.Json.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\OpenCvSharp.pdb
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\OpenCvSharp.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\OpenCvSharp.Blob.pdb
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\OpenCvSharp.Extensions.pdb
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\OpenCvSharp.UserInterface.pdb
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.Pdf.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.RichEdit.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.XtraTreeList.v18.2.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\DevExpress.Office.v18.2.Core.xml
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\de\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\es\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ja\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ru\DevExpress.Data.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\de\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\es\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ja\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ru\DevExpress.Printing.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\de\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\es\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ja\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ru\DevExpress.Sparkline.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\de\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\es\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ja\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ru\DevExpress.Utils.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraBars.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraEditors.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraGrid.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraLayout.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraPrinting.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\de\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\es\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ja\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ru\DevExpress.Pdf.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\de\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\es\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ja\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ru\DevExpress.RichEdit.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\de\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\es\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ja\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ru\DevExpress.XtraTreeList.v18.2.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\de\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\es\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ja\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\bin\Debug\ru\DevExpress.Office.v18.2.Core.resources.dll
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csprojAssemblyReference.cache
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.BACKGRUOND.resources
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.CV001F00.resources
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.DJMONITERING.resources
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.MS001F00.resources
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.Properties.Resources.resources
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.SETTING.resources
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csproj.GenerateResource.cache
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.exe.licenses
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csproj.CoreCompileInputs.cache
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.csproj.CopyComplete
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.exe
+C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\Daeji_MONITERING\obj\Debug\Daeji_MONITERING.pdb
