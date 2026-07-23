@@ -51,6 +51,18 @@ namespace WeighingSystem
         [DllImport("user32.dll")]
         static extern void keybd_event(byte bVk, byte bScan, uint dwFlags, int dwExtraInfo);
 
+        // 절전모드(시스템/화면) 진입 방지용
+        [DllImport("kernel32.dll", CharSet = CharSet.Auto, SetLastError = true)]
+        static extern EXECUTION_STATE SetThreadExecutionState(EXECUTION_STATE esFlags);
+
+        [Flags]
+        enum EXECUTION_STATE : uint
+        {
+            ES_CONTINUOUS = 0x80000000,
+            ES_SYSTEM_REQUIRED = 0x00000001,
+            ES_DISPLAY_REQUIRED = 0x00000002
+        }
+
         [DllImport("VKB.dll", CharSet = CharSet.Auto)]
         static extern void InitHook(IntPtr hHandle);
 
@@ -225,6 +237,10 @@ namespace WeighingSystem
                 pictureBoxA.BackgroundImage = Properties.Resources.A;
                 Log.AddLog("프로그램이 실행되었습니다.");
                 _firstLoad = true;
+
+                // 프로그램 실행 중 시스템/화면 절전모드 진입 방지
+                SetThreadExecutionState(EXECUTION_STATE.ES_CONTINUOUS | EXECUTION_STATE.ES_SYSTEM_REQUIRED | EXECUTION_STATE.ES_DISPLAY_REQUIRED);
+                Log.AddLog("절전모드 방지 설정 적용");
                 InitUserControl();
                 ReadSettingData();
                 Initialize();
@@ -3753,6 +3769,9 @@ namespace WeighingSystem
                 return;
             }
             Log.AddLog("프로그램이 종료됩니다 - 사용자 종료");
+
+            // 절전모드 방지 설정 원복
+            SetThreadExecutionState(EXECUTION_STATE.ES_CONTINUOUS);
         }
         private void c1DockingTabPage4_Click(object sender, EventArgs e)
         {
