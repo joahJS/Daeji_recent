@@ -25,3 +25,12 @@ C:\Users\psh\Desktop\대지폴더\대지ERP_SVN대지\Daejist\Popbill\obj\Debug\
 C:\Users\psh\Desktop\대지폴더\대지ERP_SVN대지\Daejist\Popbill\obj\Debug\Popbill.csproj.CopyComplete
 C:\Users\psh\Desktop\대지폴더\대지ERP_SVN대지\Daejist\Popbill\obj\Debug\Popbill.dll
 C:\Users\psh\Desktop\대지폴더\대지ERP_SVN대지\Daejist\Popbill\obj\Debug\Popbill.pdb
+C:\github\Daeji_recent\Daejist\Popbill\bin\Debug\Popbill.dll
+C:\github\Daeji_recent\Daejist\Popbill\bin\Debug\Popbill.pdb
+C:\github\Daeji_recent\Daejist\Popbill\bin\Debug\Linkhub.dll
+C:\github\Daeji_recent\Daejist\Popbill\bin\Debug\Linkhub.pdb
+C:\github\Daeji_recent\Daejist\Popbill\obj\Debug\Popbill.csprojAssemblyReference.cache
+C:\github\Daeji_recent\Daejist\Popbill\obj\Debug\Popbill.csproj.CoreCompileInputs.cache
+C:\github\Daeji_recent\Daejist\Popbill\obj\Debug\Popbill.csproj.CopyComplete
+C:\github\Daeji_recent\Daejist\Popbill\obj\Debug\Popbill.dll
+C:\github\Daeji_recent\Daejist\Popbill\obj\Debug\Popbill.pdb

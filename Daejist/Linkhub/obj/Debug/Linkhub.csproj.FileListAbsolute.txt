@@ -16,3 +16,9 @@ C:\Users\psh\Desktop\대지폴더\대지ERP_SVN대지\Daejist\Linkhub\obj\Debug\
 C:\Users\psh\Desktop\대지폴더\대지ERP_SVN대지\Daejist\Linkhub\obj\Debug\Linkhub.csproj.CoreCompileInputs.cache
 C:\Users\psh\Desktop\대지폴더\대지ERP_SVN대지\Daejist\Linkhub\obj\Debug\Linkhub.dll
 C:\Users\psh\Desktop\대지폴더\대지ERP_SVN대지\Daejist\Linkhub\obj\Debug\Linkhub.pdb
+C:\github\Daeji_recent\Daejist\Linkhub\bin\Debug\Linkhub.dll
+C:\github\Daeji_recent\Daejist\Linkhub\bin\Debug\Linkhub.pdb
+C:\github\Daeji_recent\Daejist\Linkhub\obj\Debug\Linkhub.csprojAssemblyReference.cache
+C:\github\Daeji_recent\Daejist\Linkhub\obj\Debug\Linkhub.csproj.CoreCompileInputs.cache
+C:\github\Daeji_recent\Daejist\Linkhub\obj\Debug\Linkhub.dll
+C:\github\Daeji_recent\Daejist\Linkhub\obj\Debug\Linkhub.pdb

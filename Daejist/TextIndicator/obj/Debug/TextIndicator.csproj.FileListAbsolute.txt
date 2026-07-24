@@ -193,3 +193,12 @@ C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\TextIndicator\obj\
 C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\TextIndicator\obj\Debug\TextIndicator.csproj.CoreCompileInputs.cache
 C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\TextIndicator\obj\Debug\TextIndicator.dll
 C:\Users\psh\Desktop\대지폴더\대지ERP_통합본\Daejist\TextIndicator\obj\Debug\TextIndicator.pdb
+C:\github\Daeji_recent\Daejist\TextIndicator\bin\Debug\TextIndicator.dll
+C:\github\Daeji_recent\Daejist\TextIndicator\bin\Debug\TextIndicator.pdb
+C:\github\Daeji_recent\Daejist\TextIndicator\obj\Debug\TextIndicator.csprojAssemblyReference.cache
+C:\github\Daeji_recent\Daejist\TextIndicator\obj\Debug\TextIndicator.Indicator.resources
+C:\github\Daeji_recent\Daejist\TextIndicator\obj\Debug\TextIndicator.Properties.Resources.resources
+C:\github\Daeji_recent\Daejist\TextIndicator\obj\Debug\TextIndicator.csproj.GenerateResource.cache
+C:\github\Daeji_recent\Daejist\TextIndicator\obj\Debug\TextIndicator.csproj.CoreCompileInputs.cache
+C:\github\Daeji_recent\Daejist\TextIndicator\obj\Debug\TextIndicator.dll
+C:\github\Daeji_recent\Daejist\TextIndicator\obj\Debug\TextIndicator.pdb
